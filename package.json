@@ -1,0 +1,29 @@
+{
+  "name": "lodash-tpl-loader",
+  "version": "0.1.0",
+  "description": "a lodash template webpack loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonas8/lodash-tpl-loader.git"
+  },
+  "keywords": [
+    "lodash",
+    "template",
+    "webpack",
+    "loader"
+  ],
+  "author": "Jonas Tang <jonas.u6c64@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonas8/lodash-tpl-loader/issues"
+  },
+  "homepage": "https://github.com/jonas8/lodash-tpl-loader#readme",
+  "dependencies": {
+    "loader-utils": "^0.2.16",
+    "lodash": "^4.17.4"
+  }
+}
